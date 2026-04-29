@@ -1,4 +1,4 @@
-> #  Hi 
+> #  I'M JAYANTH B C
 MCA Graduate | Java Full Stack Developer <br>
 Skilled in Core Java, OOPs, SQL, HTML, CSS & JavaScript <br>
 Currently building real-world projects and strengthening backend & frontend skills <br>
