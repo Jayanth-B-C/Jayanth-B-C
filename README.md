@@ -1,6 +1,28 @@
-> #  I'M JAYANTH B C
-MCA Graduate | Java Full Stack Developer <br>
-Skilled in Core Java, OOPs, SQL, HTML, CSS & JavaScript <br>
-Currently building real-world projects and strengthening backend & frontend skills <br>
-Passionate about writing clean, scalable code and learning modern technologies <br>
-Open to entry-level Java / Full Stack developer opportunities <br>
+# 👋 Hi, I'm Jayanth B C
+
+### Java Backend Developer | Spring Boot | AWS Cloud | Docker | REST APIs
+
+I build production-ready backend applications using Java and Spring Boot, deploy them on AWS, and design scalable cloud-native solutions.
+
+🚀 Currently looking for Software Developer / Java Backend Engineer opportunities.
+
+> "I enjoy solving backend problems, designing APIs, and deploying applications that real users can use."
+# 🚀 Featured Project
+
+# ScanCrunch
+
+QR-Based Contactless Food Ordering Platform
+
+✔ Java + Spring Boot
+
+✔ React + Vite
+
+✔ MySQL
+
+✔ Docker
+
+✔ AWS EC2
+
+✔ REST APIs
+
+✔ Three Tier Architecture
