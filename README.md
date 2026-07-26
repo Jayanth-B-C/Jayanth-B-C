@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Jayanth B C
 
-### 🚀 Software Engineer | Java Backend Developer | Spring Boot | AWS Cloud | ReactJS
+### 🚀 Software Engineer | Java FullStack Developer | Spring Boot | AWS Cloud | ReactJS
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;AWS+EC2+%7C+Docker+%7C+Linux;ReactJS+%7C+JavaScript;Building+Production+Ready+Applications;Open+to+Software+Developer+Roles" />
 
