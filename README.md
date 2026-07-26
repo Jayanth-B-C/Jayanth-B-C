@@ -19,10 +19,8 @@ QR-Based Contactless Food Ordering Platform
 
 ✔ MySQL
 
-✔ Docker
-
-✔ AWS EC2
-
 ✔ REST APIs
 
 ✔ Three Tier Architecture
+
+![Screenshot](images/.png)
